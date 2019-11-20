@@ -11194,8 +11194,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='49' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98084' id='50' param='vert' type='layout-flow' w='98978' x='511' y='958'>
+            <zone h='100000' id='51' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98084' id='52' param='vert' type='layout-flow' w='98978' x='511' y='958'>
                 <zone h='7305' id='15' mode='dropdown' name='% Homes Decreasing in Value (State)' param='[federated.0pab1rv1btmdr41eio4pr1x23lky].[none:State:nk]' type='filter' w='10217' x='89272' y='958'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -11389,8 +11389,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='23' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='24' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='25' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='26' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='98000' id='3' type='text' w='98400' x='800' y='1000'>
                   <formatted-text>
                     <run bold='true' fontcolor='#000000' fontsize='8' underline='true'>Variable        Definition</run>
@@ -11595,8 +11595,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='46' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98084' id='47' param='vert' type='layout-flow' w='98964' x='518' y='958'>
+            <zone h='100000' id='48' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98084' id='49' param='vert' type='layout-flow' w='98964' x='518' y='958'>
                 <zone fixed-size='280' h='49041' id='12' is-fixed='true' name='% Homes Increasing in Value (State)' w='88595' x='518' y='958'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -11747,8 +11747,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='42' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='43' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='44' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='45' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone h='7625' id='8' mode='dropdown' name='Zillow Per Sqft Price Over Time' param='[federated.0pab1rv1btmdr41eio4pr1x23lky].[none:State:nk]' type='filter' w='16000' x='83200' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
